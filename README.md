@@ -1,2 +1,2 @@
 # Python-Game
-pygame trial game, learning GitHub
+Pygame trial game, learning GitHub
